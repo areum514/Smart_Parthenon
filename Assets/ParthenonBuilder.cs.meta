@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: a3e61e616f98b6545a0aa3755679a1aa
+timeCreated: 1517385118
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - cubePrefab: {fileID: 1207951390167336, guid: 5689ac7ef01c0b142ace8336eb648789,
+      type: 2}
+  - cylinderPrefab: {fileID: 1806267930674592, guid: 9312387ed143b4b48a36bece81d60fb1,
+      type: 2}
+  - floorMaterial: {fileID: 2100000, guid: 00addb8b9e13d4742905f69f01102e75, type: 2}
+  - pillarMaterial: {fileID: 2100000, guid: f1f5c46c6377aea458a8c122f03d5834, type: 2}
+  - roofMaterial: {fileID: 2100000, guid: 7b6fcedf5aedcc741831f257a910c368, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
